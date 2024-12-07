@@ -1,0 +1,48 @@
+﻿capital = 502
+
+set_research_slots = 1
+
+
+# Starting tech
+set_technology = {
+	melee_weapons = 1
+	melee_weapons1 = 1
+	tech_support = 1
+	infantry_weapons = 1
+	pre_gw_artillery = 1
+	infantry_weapons = 1
+	generic_race = 1
+}
+actually_fix_weapon_techs = yes
+
+set_convoys = 0
+
+add_ideas = {
+	slavery_economy
+	big_science_base
+	pre_industrial_society
+	lack_of_scientists2
+	poverty2
+	generic_race_idea
+}
+
+set_popularities = {
+	democratic = 7
+	fascism = 54
+	communism = 16
+	neutrality = 23
+}
+set_politics = {
+	ruling_party = fascism
+	last_election = "1001.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_rule = {
+	can_generate_female_aces = yes
+	can_generate_female_unit_leaders  = yes
+	can_generate_female_country_leaders = yes
+}
+
+recruit_character = FRA_character_Philippe_Petain

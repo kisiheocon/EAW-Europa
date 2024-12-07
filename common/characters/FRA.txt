@@ -1,0 +1,14 @@
+characters = {
+	FRA_character_Philippe_Petain = {
+		name = FRA_character_Philippe_Petain
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/portrait_FRA_Philippe_Petain.dds"
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire="1965.1.1.1"
+		}
+	}
+}
