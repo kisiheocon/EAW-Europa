@@ -5,8 +5,9 @@ tags={
 	"Gameplay"
 	"Events"
 }
-dependencies = {
+dependencies={
 	"Equestria at War"
 }
 name="Equestria at War: Europa"
 supported_version="1.15.2"
+remote_file_id="3379680709"

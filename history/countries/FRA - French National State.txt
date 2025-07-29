@@ -1,5 +1,5 @@
-﻿capital = 502
-
+﻿capital = 672
+load_oob = "POM_1007"
 set_research_slots = 1
 
 

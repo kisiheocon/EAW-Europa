@@ -4,9 +4,9 @@
   ##Bookmark/Intro##
    #TAG_GATHERING_STORM_DESC: ""
   ##Country Name##
-   FRA: "French National State"
-    FRA_DEF: "the French National State"
-    TAG_ADJ: "French"
+  FRA: "French National State"
+  FRA_DEF: "the French National State"
+  TAG_ADJ: "French"
    #TAG_ideology: ""
     #TAG_ideology_DEF: "the "
     #TAG_ideology_ADJ: ""
@@ -24,8 +24,8 @@
     #TAG_charactername_leader_desc: ""
     #TAG_charactertrait: ""
     #TAG_charactertrait_desc: ""
-  FRA_character_Philippe_Petain:0 "Philippe Pétain"
-  FRA_character_Philippe_Petain_desc:0 ""
+  FRA_character_Philippe_Petain: "Philippe Pétain"
+  FRA_character_Philippe_Petain_desc: ""
   ##Commanders##
     #TAG_charactername_commander_desc: ""
   ##Political Advisors##
