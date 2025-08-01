@@ -4,8 +4,8 @@
   ##Bookmark/Intro##
    #TAG_GATHERING_STORM_DESC: ""
   ##Country Name##
-  FRA: "French National State"
-  FRA_DEF: "the French National State"
+  FRA: "Saint-Étienne"
+  FRA_DEF: "the Unified High Command Of The Armed Forces Of Saint-Étienne"
   TAG_ADJ: "French"
    #TAG_ideology: ""
     #TAG_ideology_DEF: "the "
@@ -24,7 +24,7 @@
     #TAG_charactername_leader_desc: ""
     #TAG_charactertrait: ""
     #TAG_charactertrait_desc: ""
-  FRA_character_Philippe_Petain: "Philippe Pétain"
+  FRA_character_Philippe_Petain: "Marshal Philippe Pétain"
   FRA_character_Philippe_Petain_desc: ""
   ##Commanders##
     #TAG_charactername_commander_desc: ""

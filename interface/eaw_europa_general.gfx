@@ -1,0 +1,9 @@
+spriteTypes = {
+	##############
+	##Ideologies##
+	##############
+	spriteType = {
+        name = GFX_ideology_FRA_nazism
+        texturefile = gfx/interface/ideologies/unique/ideology_FRA_nazism.dds
+    }
+}
