@@ -17,11 +17,13 @@ actually_fix_weapon_techs = yes
 set_convoys = 0
 
 add_ideas = {
+	disarmed_nation
+	closed_economy
 	slavery_economy
-	big_science_base
+	proper_science_base # Scientists from the experiment #
 	pre_industrial_society
-	lack_of_scientists2
-	poverty2
+	lack_of_scientists1 # Can only speak Aquilean #
+	poverty1
 	generic_race_idea
 }
 
@@ -43,5 +45,11 @@ set_rule = {
 	can_generate_female_unit_leaders  = yes
 	can_generate_female_country_leaders = yes
 }
+
+set_country_flag = has_custom_advisors
+set_country_flag = has_custom_spymaster
+set_country_flag = demilitarized # We're fucked #
+set_country_flag = trade_laws_blocked # No four legged creatures want to trade with us #
+
 
 recruit_character = FRA_character_philippe_petain

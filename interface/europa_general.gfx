@@ -14,4 +14,13 @@ spriteTypes = {
 		name = GFX_ideology_FRA_nazism
 		texturefile = "gfx/interface/ideologies/unique/ideology_FRA_nazism.dds"
 	}
+
+	###############
+	## Texticons ##
+	###############
+	spriteType = {
+		name = GFX_texticon_CSSc_europa_FRA_map
+		texturefile = "gfx/interface/country_selection_screen/country_map/Griffonia/europa_FRA.dds"
+		legacy_lazy_load = no
+	}
 }
