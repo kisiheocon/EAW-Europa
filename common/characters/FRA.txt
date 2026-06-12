@@ -1,14 +1,18 @@
 characters = {
-	FRA_character_Philippe_Petain = {
-		name = FRA_character_Philippe_Petain
+	FRA_character_philippe_petain = {
+		name = FRA_character_philippe_petain_name
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/FRA/portrait_FRA_Philippe_Petain.dds"
+				large = GFX_portrait_philippe_petain_large
+			}
+			army = {
+				large = GFX_portrait_philippe_petain_large
 			}
 		}
+		
 		country_leader = {
 			ideology = nazism
-			expire="1965.1.1.1"
+			expire = "1965.1.1.1"
 		}
 	}
 }

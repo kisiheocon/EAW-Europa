@@ -1,5 +1,4 @@
 ﻿capital = 672
-load_oob = "POM_1007"
 set_research_slots = 1
 
 
@@ -45,4 +44,4 @@ set_rule = {
 	can_generate_female_country_leaders = yes
 }
 
-recruit_character = FRA_character_Philippe_Petain
+recruit_character = FRA_character_philippe_petain

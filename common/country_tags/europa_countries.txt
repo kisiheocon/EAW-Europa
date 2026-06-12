@@ -1,0 +1,3 @@
+##EAW: Europa##
+
+FRA = "countries/FRA - French National State.txt"

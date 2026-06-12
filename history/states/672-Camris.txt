@@ -16,7 +16,7 @@ state={
 		add_core_of = POM
 
 		victory_points = { 8073 3 }
-		victory_points = { 4976 5}
+		victory_points = { 4976 5 }
 
 		buildings = {
 			infrastructure = 1
