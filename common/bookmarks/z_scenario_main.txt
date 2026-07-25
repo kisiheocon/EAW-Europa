@@ -4,11 +4,11 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 1007.1.1.12
 		picture = "GFX_bookmark_equus"
-		default_country = "EQS"
+		default_country = "FRA"
 		default = yes
 
 		filters = { label }
-		label_order = { CSS_EquestriaFilter CSS_GriffoniaFilter CSS_ZebricaFilter }
+		label_order = { CSS_GriffoniaFilter CSS_EquestriaFilter CSS_ZebricaFilter }
 
 		sort_unplayed_first = no            # defaults to yes: countries with unplayed content are listed first
 		include_majors_in_minor_list = no   # defaults to yes: when a filter is active, majors also show in the mini list
