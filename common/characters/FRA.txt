@@ -1,4 +1,17 @@
 characters = {
+	FRA_provisional_council_char = {
+		portraits = {
+			civilian = {
+				large = GFX_portrait_provisional_council_large
+			}
+		}
+
+		country_leader = {
+			ideology = nazism
+			expire = "1965.1.1.1"
+		}
+	}
+
 	FRA_character_philippe_petain = {
 		name = FRA_character_philippe_petain_name
 		portraits = {
@@ -10,9 +23,9 @@ characters = {
 			}
 		}
 		
-		country_leader = {
-			ideology = nazism
-			expire = "1965.1.1.1"
-		}
+		#country_leader = {
+		#	ideology = nazism
+		#	expire = "1965.1.1.1"
+		#}
 	}
 }

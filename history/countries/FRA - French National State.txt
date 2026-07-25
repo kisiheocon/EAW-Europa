@@ -51,5 +51,5 @@ set_country_flag = has_custom_spymaster
 set_country_flag = demilitarized # We're fucked #
 set_country_flag = trade_laws_blocked # No four legged creatures want to trade with us #
 
-
+recruit_character = FRA_provisional_council_char
 recruit_character = FRA_character_philippe_petain

@@ -3,6 +3,11 @@ spriteTypes = {
 	## Characters ##
 	################
 	spriteType = {
+		name = GFX_portrait_provisional_council_large
+		texturefile = "gfx/leaders/FRA/portrait_FRA_provisional_council.dds"
+	}
+
+	spriteType = {
 		name = GFX_portrait_philippe_petain_large
 		texturefile = "gfx/leaders/FRA/portrait_FRA_Philippe_Petain.dds"
 	}
