@@ -22,16 +22,16 @@ add_ideas = {
 	slavery_economy
 	proper_science_base # Scientists from the experiment #
 	pre_industrial_society
-	lack_of_scientists1 # Can only speak Aquilean #
+	lack_of_scientists1 # Language is similar but not the same as Aquileian or Herzlandian #
 	poverty1
 	generic_race_idea
 }
 
 set_popularities = {
-	democratic = 7
-	fascism = 54
-	communism = 16
-	neutrality = 23
+	democratic = 3
+	fascism = 68
+	communism = 2
+	neutrality = 27
 }
 set_politics = {
 	ruling_party = fascism
