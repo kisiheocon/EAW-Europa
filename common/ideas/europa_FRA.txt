@@ -1,0 +1,35 @@
+ideas = {
+	country = {
+		## A Triumvirate of Necessity ##
+		europa_FRA_triumvirate_idea = {
+			picture = europa_FRA_triumvirate
+			modifier = {
+				stability_factor = 0.1 # Hold the nation together #
+				political_power_factor = -0.2 # Decentralized power #
+				command_power_gain_mult = -0.2 # Decentralized power #
+			}
+		}
+
+		## Crippled Chain Of Command ##
+		europa_FRA_chain_of_command_0_idea = {
+			picture = chi_incompetent_officers
+			modifier = {
+				army_org_factor = -0.2
+				max_planning_factor = -0.3
+				planning_speed = -0.5
+				custom_modifier_tooltip = europa_modifier_block_conscription_tt
+			}
+		}
+
+		## Evaporated Supply Lines ##
+		europa_FRA_supply_0_idea = {
+			picture = raj_risk_of_famine
+			modifier = {
+				stability_factor = -0.2
+				war_support_factor = -0.3
+				attrition = 0.2
+				custom_modifier_tooltip = europa_FRA_supply_0_idea_tt
+			}
+		}
+	}
+}

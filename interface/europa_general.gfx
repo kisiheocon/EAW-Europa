@@ -55,4 +55,12 @@ spriteTypes = {
 		texturefile = "gfx/interface/country_selection_screen/country_map/Griffonia/europa_FRA.dds"
 		legacy_lazy_load = no
 	}
+
+	###########
+	## Ideas ##
+	###########
+	spriteType = {
+		name = GFX_idea_europa_FRA_triumvirate
+		texturefile = "gfx/interface/ideas/FRA/europa_FRA_triumvirate.dds"
+	}
 }

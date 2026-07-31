@@ -40,3 +40,15 @@ FRA_generalfeldmarschall_erwin_rommel_trait_desc: ""
 
 FRA_armored_savant_trait: "Armored Savant"
 FRA_armored_savant_trait_desc: ""
+
+europa_modifier_block_conscription_tt: "§RCannot replace §YConscription Law§!§!\n"
+
+europa_FRA_triumvirate_idea: "A Triumvirate of Necessity"
+europa_FRA_triumvirate_idea_desc: "Governance and military direction has been hastily split between the Wehrmacht garrison, led by Field Marshal Rommel, The Vichy Administration and its garrison, led by Marshal Petain, and Oberführer Puaud's Waffen S.S Charlemagne division, regardless of its impacts such a union has been made necessary by our circumstances, lest a city wide civil war ensue."
+
+europa_FRA_chain_of_command_0_idea: "Crippled Chain Of Command"
+europa_FRA_chain_of_command_0_idea_desc: "We have found ourselves completely cut off from both Vichy and Berlin, leaving our forces in a volatile limbo. Field Marshal Rommel's staff and Marshal Pétain's administration are locked in a bitter deadlock over who holds supreme legislative veto power. Meanwhile, the more radical S.S Charlemagne division has largely detached itself from the chain of command, acting as a loosely controlled gendarmerie throughout the city of Saint-Entiene. Without standing orders, a unified command structure, or legal precedent, our military and civil apparatus of state is a powder keg waiting to detonate."
+
+europa_FRA_supply_0_idea: "Evaporated Supply Lines"
+europa_FRA_supply_0_idea_desc: "Following the §RSTRENG GEHEIM§! incident all supply lines outside of the city have been cut. And we are faced with critical shortages in all major resources and utility services. The only supplies that remain are those within the city limits.\n\nOur current supply situation is:\n§RCritical.\nStrained.\nManaged.§!"
+europa_FRA_supply_0_idea_tt: "§RCannot replace §YTrade Law§! and §YEconomy Law§!§!\n"

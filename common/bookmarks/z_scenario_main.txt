@@ -354,7 +354,9 @@ bookmarks = {
 			ideology = fascism
 			label = { CSS_GriffoniaFilter }
 			ideas = {
-
+				europa_FRA_triumvirate_idea
+				europa_FRA_chain_of_command_0_idea
+				europa_FRA_supply_0_idea
 			}
 			focuses = {
 
