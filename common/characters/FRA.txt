@@ -9,6 +9,7 @@ characters = {
 		country_leader = {
 			ideology = nazism
 			expire = "1965.1.1.1"
+			desc = FRA_provisional_high_command_char_desc
 		}
 	}
 
@@ -24,6 +25,16 @@ characters = {
 				small = GFX_idea_philippe_petain
 			}
 		}
+
+		advisor = {
+			slot = army_chief
+			idea_token = FRA_character_philippe_petain_char_army_chief_idea_token
+			allowed = { original_tag = FRA }
+
+			traits = { FRA_lion_of_verdun_trait }
+			can_be_fired = no
+			cost = 100
+		}
 	}
 
 	## Erwin Rommel ##
@@ -37,6 +48,31 @@ characters = {
 				large = GFX_portrait_erwin_rommel_large
 				small = GFX_idea_erwin_rommel
 			}
+		}
+
+		advisor = {
+			slot = high_command
+			idea_token = FRA_character_erwin_rommel_char_high_command_idea_token
+			ledger = army
+			allowed = { original_tag = FRA }
+
+			traits = { FRA_the_desert_fox_trait }
+			can_be_fired = no
+			cost = 150
+		}
+		
+		field_marshal = {
+			traits = {
+				FRA_generalfeldmarschall_erwin_rommel_trait 
+				FRA_armored_savant_trait
+				trickster
+				desert_fox
+			}
+			skill = 4
+			attack_skill = 5
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 2
 		}
 	}
 }

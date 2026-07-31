@@ -1,0 +1,35 @@
+leader_traits = {
+	## Generalfeldmarschall ##
+	FRA_generalfeldmarschall_erwin_rommel_trait = {
+		type = all
+		trait_type = personality_trait
+		allowed = { always = no }
+
+		non_shared_modifier = {
+			army_morale_factor = 0.1
+			reassignment_duration_factor = 1.5
+		}
+	}
+
+	## Armored Savant ##
+	FRA_armored_savant_trait = {
+		type = land
+		trait_type = personality_trait
+		leader_default_proximity_offset = -1
+		allowed = { always = no }
+
+		trait_xp_factor = {
+			panzer_leader = 1
+		}
+
+		non_shared_modifier = {
+			panzer_leader = 1
+			planning_speed = 0.20
+			wounded_chance_factor = 0.5
+		}
+
+		attack_skill_factor = 2
+		defense_skill_factor = -1
+		planning_skill_factor = 2
+	}
+}

@@ -13,8 +13,18 @@ EAW_WS_FRA_desc: "Following The Disaster of 1940 and the aftermath of Fall Gelb,
 FRA_provisional_high_command_char: "Provisional High Command"
 FRA_provisional_high_command_char_desc: "§YArtist:§! Duke Horner"
 
-FRA_character_philippe_petain_char: "Marshal Philippe Pétain"
+FRA_character_philippe_petain_char: "Philippe Pétain"
 FRA_character_philippe_petain_char_desc: ""
+
+FRA_lion_of_verdun_trait: "Lion of Verdun"
 
 FRA_character_erwin_rommel_char: "Erwin Rommel"
 FRA_character_erwin_rommel_char_desc: ""
+
+FRA_the_desert_fox_trait: "The Desert Fox"
+
+FRA_generalfeldmarschall_erwin_rommel_trait: "Generalfeldmarschall"
+FRA_generalfeldmarschall_erwin_rommel_trait_desc: ""
+
+FRA_armored_savant_trait: "Armored Savant"
+FRA_armored_savant_trait_desc: ""

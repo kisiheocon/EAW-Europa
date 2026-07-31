@@ -1,0 +1,23 @@
+leader_traits = {
+	## Lion of Verdun ##
+	FRA_lion_of_verdun_trait = {
+		sprite = 9
+
+		army_morale_factor = 0.05 # War hero popularity #
+		army_defence_factor = 0.1
+		experience_gain_army = 0.1 # He's too old to learn new things #
+
+		command_cap_increase = 10 # He's too old to be flexible with large commands #
+	}
+
+	## The Desert Fox ##
+	FRA_the_desert_fox_trait = {
+		sprite = 8
+
+		army_morale_factor = 0.05 # War hero popularity #
+		army_armor_attack_factor = 0.15
+		army_armor_defence_factor = 0.15
+
+		command_cap_increase = 30
+	}
+}

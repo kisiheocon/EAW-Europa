@@ -53,3 +53,7 @@ set_country_flag = trade_laws_blocked # No four legged creatures want to trade w
 
 recruit_character = FRA_provisional_high_command_char
 recruit_character = FRA_character_philippe_petain_char
+recruit_character = FRA_character_erwin_rommel_char
+
+add_ideas = FRA_character_philippe_petain_char_army_chief_idea_token
+add_ideas = FRA_character_erwin_rommel_char_high_command_idea_token
