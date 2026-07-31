@@ -11,6 +11,19 @@ spriteTypes = {
 		name = GFX_portrait_philippe_petain_large
 		texturefile = "gfx/leaders/FRA/portrait_FRA_Philippe_Petain.dds"
 	}
+	spriteType = {
+		name = GFX_idea_philippe_petain
+		texturefile = "gfx/leaders/FRA/small/idea_FRA_philippe_petain.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_erwin_rommel_large
+		texturefile = "gfx/leaders/FRA/portrait_FRA_Erwin_Rommel.dds"
+	}
+	spriteType = {
+		name = GFX_idea_erwin_rommel
+		texturefile = "gfx/leaders/FRA/small/idea_FRA_erwin_rommel.dds"
+	}
 
 	################
 	## Ideologies ##

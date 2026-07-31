@@ -1,5 +1,5 @@
 characters = {
-	FRA_provisional_council_char = {
+	FRA_provisional_high_command_char = {
 		portraits = {
 			civilian = {
 				large = GFX_portrait_provisional_council_large
@@ -12,20 +12,31 @@ characters = {
 		}
 	}
 
-	FRA_character_philippe_petain = {
-		name = FRA_character_philippe_petain_name
+	## Philippe Petain ##
+	FRA_character_philippe_petain_char = {
 		portraits = {
 			civilian = {
 				large = GFX_portrait_philippe_petain_large
+				small = GFX_idea_philippe_petain
 			}
 			army = {
 				large = GFX_portrait_philippe_petain_large
+				small = GFX_idea_philippe_petain
 			}
 		}
-		
-		#country_leader = {
-		#	ideology = nazism
-		#	expire = "1965.1.1.1"
-		#}
+	}
+
+	## Erwin Rommel ##
+	FRA_character_erwin_rommel_char = {
+		portraits = {
+			civilian = {
+				large = GFX_portrait_erwin_rommel_large
+				small = GFX_idea_erwin_rommel
+			}
+			army = {
+				large = GFX_portrait_erwin_rommel_large
+				small = GFX_idea_erwin_rommel
+			}
+		}
 	}
 }
