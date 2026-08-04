@@ -23,7 +23,7 @@ FRA_fascism_party: "FGED"
 FRA_fascism_party_long: "Franco-German Emergency Directorate\n§W--------------§!\n§LDescription Here.§!\n"
 
 FRA_provisional_high_command_char: "Provisional High Command"
-FRA_provisional_high_command_char_desc: "§YArtist:§! Duke Horner"
+FRA_provisional_high_command_char_desc: "Officially denoted as the \"Unified high command of the armed forces of Saint-Etienne\", the various divisions, battalions and militia units that were unfortunate enough to be within the city limits have been jury rigged into a convoluted and often dysfunctional system of both governance and military order. The officers and generals of these forces, who were so often saved from discomfort and disorder as a result of their ranks and stature, are no exception. While nominally under civilian governance before the §RSTRENG GEHEIM§! incident, civil authority in the city has been largely subsumed by the sheer number and proximity of military units. Ideology and national loyalty have been, for the moment at least forcibly sidelined by the increasingly bleak state of affairs. And law and order have been ensured, if only temporarily by the passive enforcement of infantry units, or by the barely controlled brutality of the Waffen S.S. It remains to be seen if this ad hoc government can prove itself, for the price of progress is steep, and if history has proven anything, it more often than not is insurmountable.\n\n§YArtist:§! Duke Horner"
 
 FRA_character_philippe_petain_char: "Philippe Pétain"
 FRA_character_philippe_petain_char_desc: ""
@@ -31,15 +31,15 @@ FRA_character_philippe_petain_char_desc: ""
 FRA_lion_of_verdun_trait: "Lion of Verdun"
 
 FRA_character_erwin_rommel_char: "Erwin Rommel"
-FRA_character_erwin_rommel_char_desc: ""
+FRA_character_erwin_rommel_char_desc: "§YName:§! §LJohannes Erwin Eugen Rommel§!\n§YPlace of Birth:§! §LHeidenheim, Kingdom of Württemberg, German Empire§!\n§YDate of Birth:§! §L15 November 1891§!"
 
 FRA_the_desert_fox_trait: "The Desert Fox"
 
 FRA_generalfeldmarschall_erwin_rommel_trait: "Generalfeldmarschall"
-FRA_generalfeldmarschall_erwin_rommel_trait_desc: ""
+FRA_generalfeldmarschall_erwin_rommel_trait_desc: "§Y§!\n\n£GFX_texticon_europa_generalfeldmarschall \n\n\n\n§LFollowing the disastrous defeat of the vaunted Afrika Korps in May of 1943, Rommel's recall to Europe, first in Italy then later in France, was accompanied by a promotion to Generalfeldmarschall with the intent of overseeing the Atlantic Wall. This rank provided the necessary military and political leverage to manage the increasingly convoluted relationship with Vichy France, an administrative triumph that successfully averted Operation Case Anton.\n\nRecognizing his administrative victory with the French and his considerable tactical prowess throughout the war, the increasingly paranoid Führer personally dispatched Rommel to Saint-Étienne in early 1944. Armed with the highest security clearance, he was ordered to oversee the massive German contingent and safeguard the highly classified Element 665 atomic project from suspected Allied espionage, unknowingly damning both himself and his staff to an exile of the most egregious kind.§!"
 
 FRA_armored_savant_trait: "Armored Savant"
-FRA_armored_savant_trait_desc: ""
+FRA_armored_savant_trait_desc: "§LErwin Rommel is a convoluted man, seldom content in distant command tents. His world renowned mastery of both wheel and tread was brutally forged by adapting light infantry tactics learned in the First World War directly into the overwhelming momentum of mechanized warfare of the Second. From infiltrating Italian mountain lines at Caporetto in 1917 to unleashing the rapid, deceptive momentum of the 7th Panzer Division across France in 1940 during Fall Gelb, his entire operational doctrine has relied on commanding from the front in every possible meaning, bypassing bureaucracy to paralyze and pierce enemy strong points.\n\nIn this strange new world, this militant pragmatism has transformed into a desperate and increasingly personal crusade. Hauntingly reminiscent of Napoleon's abandonment of his men in Egypt in 1799, Rommel was secretly ordered out of Tunisia in May 1943, safely evacuated just before the catastrophic collapse of his beloved Afrika Korps. Carrying the unvoiced weight of survivor's guilt from what bitterly became known as Tunisgrad, the Field Marshal refuses to ever leave his troops behind again. This relentless obsession to lead from the battlefront gives his forces an unparalleled tactical edge, but the cost of his loss would be high. For his sake, one can only hope he never has to pay it.§!"
 
 europa_modifier_block_conscription_tt: "§RCannot replace §YConscription Law§!§!\n"
 

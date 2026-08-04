@@ -23,7 +23,6 @@ leader_traits = {
 		}
 
 		non_shared_modifier = {
-			panzer_leader = 1
 			planning_speed = 0.20
 			wounded_chance_factor = 0.5
 		}

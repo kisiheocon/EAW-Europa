@@ -58,9 +58,15 @@ spriteTypes = {
 
 	###########
 	## Ideas ##
-	###########
 	spriteType = {
 		name = GFX_idea_europa_FRA_triumvirate
 		texturefile = "gfx/interface/ideas/FRA/europa_FRA_triumvirate.dds"
+	}
+
+	## Texticons ##
+	spriteType = {
+		name = GFX_texticon_europa_generalfeldmarschall
+		texturefile = "gfx/interface/texticons/texticon_europa_generalfeldmarschall.dds"
+		legacy_lazy_load = no
 	}
 }

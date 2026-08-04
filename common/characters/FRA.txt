@@ -53,6 +53,7 @@ characters = {
 		advisor = {
 			slot = high_command
 			idea_token = FRA_character_erwin_rommel_char_high_command_idea_token
+			desc = FRA_character_erwin_rommel_char_desc
 			ledger = army
 			allowed = { original_tag = FRA }
 
@@ -62,17 +63,19 @@ characters = {
 		}
 		
 		field_marshal = {
+			desc = FRA_character_erwin_rommel_char_desc
+
+			skill = 4
+			attack_skill = 5
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 2
 			traits = {
 				FRA_generalfeldmarschall_erwin_rommel_trait 
 				FRA_armored_savant_trait
 				trickster
 				desert_fox
 			}
-			skill = 4
-			attack_skill = 5
-			defense_skill = 3
-			planning_skill = 3
-			logistics_skill = 2
 		}
 	}
 }
